@@ -1,14 +1,49 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="head content p-r">
+      <div class="p-a l-0 t-0">
+        <img width="13px" height="10px" src="./img/email.png" alt="邮箱">
+        <span style="marginLeft:8px">email: robunmo@outlook.com</span>
+      </div>
+      <div class="m-0a"><img style="margin-top:20px" src="./img/logo.png" alt=""></div>
     </div>
     <router-view />
+    <!-- <div class="p-f b-0 l-o w_100"> -->
+    <div class="w_100">
+      <div class="trademark">
+        <div class="content d-f jc-sb">
+        <div class="ta-l">
+          <p class="title fw-600"></p>
+          <p>We are on Deliveroo, Justeat and Ubereats.</p>
+        </div>
+        <div class="d-f">
+          <img width="55px" height="55px" style="margin-top:50px; margin-left: 21px" src="./img/f1.png" alt="">
+          <img width="55px" height="55px" style="margin-top:50px; margin-left: 21px" src="./img/f2.png" alt="">
+          <img width="55px" height="55px" style="margin-top:50px; margin-left: 21px" src="./img/f3.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="foot c-f">
+        <div class="content d-f jc-sb">
+          <div></div>
+          <div>
+            <span>
+              <img src="./img/email.png" alt="">
+              email: robunmo@outlook.com
+            </span>
+            <span>
+             follow us:  <img src="./img/follow.png" alt="">
+              robunmouk
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <style>
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
