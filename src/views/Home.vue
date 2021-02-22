@@ -2,8 +2,8 @@
   <div class="about">
     <div class="about-head">
       <div class="content p-r ">
-        <p style="padding-top:95px" class="c-f fw-600">Robunmo</p>
-        <p class="c-f fw-600">Chinese street food</p>
+        <!-- <p style="padding-top:95px" class="c-f fw-600">Robunmo</p>
+        <p class="c-f fw-600">Chinese street food</p> -->
         <img class="p-a" height="400px" src="../img/h1.png" alt="">
       </div>
     </div>
@@ -47,8 +47,10 @@
             <div>Robunmo aims to serve happy customers with high quality and affordable price and an authentic approach makes us the place to get Chinese street food in famous shopping malls.</div>
           </div>
           <div>
-            <img class="d-b" style="margin-top:50px;margin-bottom:22px" width="144px" height="43px" src="../img/logo2.png" alt="">
-            <img width="144px" height="144px" src="../img/logo3.png" alt="">
+            <!-- <a  href="https://www.instagram.com/robunmo?r=nametag" target="_blank" rel="noopener noreferrer">
+              <img class="d-b" style="margin-top:50px;margin-bottom:22px" width="144px" height="43px" src="../img/logo2.png" alt="">
+            </a> -->
+            <!-- <img width="144px" height="144px" src="../img/logo3.png" alt=""> -->
           </div>
         </div>
         <div class="d-f jc-sb foot-detail-box">
