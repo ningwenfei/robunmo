@@ -2,7 +2,7 @@
   <div id="app">
     <div class="head content p-r">
       <div class="p-a l-0 t-0">
-        <img width="13px" height="10px" src="./img/email.png" alt="邮箱">
+        <!-- <img width="13px" height="10px" src="./img/email.png" alt="邮箱"> -->
         <!-- <span style="marginLeft:8px">email: robunmo@outlook.com</span> -->
       </div>
       <div class="m-0a"><img style="margin-top:20px" src="./img/logo.png" alt=""></div>
